@@ -1,6 +1,6 @@
 # ferrero_asset_management
 
-A new Flutter project.
+A Flutter project for asset management.
 
 ## Getting Started
 
